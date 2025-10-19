@@ -1,0 +1,6 @@
+com\saulproyects\biblioteca\entity\Prestamo.class
+com\saulproyects\biblioteca\entity\Rol.class
+com\saulproyects\biblioteca\entity\Libro.class
+com\saulproyects\biblioteca\controller\PublicController.class
+com\saulproyects\biblioteca\config\AppConfig.class
+com\saulproyects\biblioteca\entity\Usuario.class
